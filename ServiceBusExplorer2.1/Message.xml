@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Message xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Date>Tuesday, May 20, 2014 6:01:39 PM</Date>
+  <Content><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<Chat xmlns="http://windowsazure.cat.microsoft.com/samples/multicast">
+  <nickname>Paolo</nickname>
+  <text>Hello mate!</text>
+</Chat>]]></Content>
+</Message>
