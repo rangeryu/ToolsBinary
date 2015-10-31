@@ -1,0 +1,70 @@
+<17:54:12> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[PVG-DLC-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"PVG","ToCity":"DLC","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:12> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[DLC-PEK-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"DLC","ToCity":"PEK","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:12> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[CKG-SHA-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"CKG","ToCity":"SHA","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:12> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[SHA-SZX-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"SHA","ToCity":"SZX","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[WUH-XMN-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"WUH","ToCity":"XMN","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[KMG-KWE-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"KMG","ToCity":"KWE","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[AKU-URC-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"AKU","ToCity":"URC","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[KMG-JHG-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"KMG","ToCity":"JHG","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[HKG-PVG-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"HKG","ToCity":"PVG","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]
+<17:54:13> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[TPE-PVG-20150815-ITA-All-] SessionId=[NULL] Label=[NULL] Size=[825]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"ITA","FromCity":"TPE","ToCity":"PVG","FromDate":{"Date":"2015-08-15T00:00:00...
+Properties:
+ - Key=[DeadLetterReason] Value=[MaxDeliveryCountExceeded]
+ - Key=[DeadLetterErrorDescription] Value=[Message could not be consumed after 3 delivery attempts.]

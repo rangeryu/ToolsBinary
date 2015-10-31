@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Message xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Date>Thursday, September 10, 2015 4:57:10 PM</Date>
+  <Content><![CDATA[TaskCategory="A" AND PriorityLevel = 2]]></Content>
+</Message>

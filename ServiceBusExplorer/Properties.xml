@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Properties xmlns="http://schemas.microsoft.com/servicebusexplorer">
+  <Property Key="TaskCategory" Type="String" Value="A" />
+  <Property Key="PriorityLevel" Type="Int32" Value="2" />
+</Properties>
