@@ -1,0 +1,7 @@
+<13:26:31> ----------------------------------------------------------------------------------------------------
+Message Received. MessageId=[HAN-HKG-20160113-JSTR-OneWay-] SessionId=[NULL] Label=[NULL] Size=[776]
+Payload:
+{"RequestData":{"CompanyName":null,"ConnectorName":"JSTR","FromCity":"HAN","ToCity":"HKG","FromDate":{"DateTime":"2016-01-13T00:...
+Properties:
+ - Key=[PriorityLevel] Value=[1]
+ - Key=[TaskCategory] Value=[JSTR]
